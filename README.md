@@ -6,10 +6,9 @@
 🎓 About Me
 
 
-🌱 I'm a first-year CS student, currently exploring Data Structures & Algorithms
-💻 Practicing problem-solving with NeetCode
-🎮 Working on a personal project: a turn-based battle simulation in C++, inspired by One Piece's Enies Lobby arc
-📚 Always learning — open to suggestions and collaboration!
+🌱 I'm a first-year CS student, currently exploring Data Structures & Algorithms. </br>
+💻 Practicing problem-solving with NeetCode. </br>
+📚 Always learning — open to suggestions and collaboration.
 
 
 
@@ -34,4 +33,4 @@
 
 <!-- Add your socials here when you have them, e.g.: -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link) -->
-<p align="center"><i>Thanks for stopping by!</i></p>
+<p align="center"><i>Thanks for stopping by.</i></p>
