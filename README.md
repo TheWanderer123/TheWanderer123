@@ -5,7 +5,6 @@
 
 <div align="center">
 <pre>                                                                        
-  
  ;                                                                          
  ED.                                               :                        
  E#Wi                              .              t#,                       
@@ -22,7 +21,6 @@
  E##D.      ;##D.    L##, EG.     :W##########Wt   t        fE    ii   ii   
  E#t        ,,,      .,,  ,       :,,,,,,,,,,,,,.            :              
  L:                                                                                                             
- 
 </pre>
 </div>
                                                               
