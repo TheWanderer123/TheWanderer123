@@ -3,9 +3,8 @@
   Computer Science @ HCMUT (Ho Chi Minh City University of Technology - VNU-HCM)
 </p>
 
-<div align="center">
-<pre>                                                                        
- ;                                                                          
+```text
+;                                                                          
  ED.                                               :                        
  E#Wi                              .              t#,                       
  E###G.                           ;W         i   ;##W.           .    .     
@@ -20,9 +19,9 @@
  E#K##i      :K#K:   L##, ,WK,     .W#G           G#t      t#E   f#t  f#t   
  E##D.      ;##D.    L##, EG.     :W##########Wt   t        fE    ii   ii   
  E#t        ,,,      .,,  ,       :,,,,,,,,,,,,,.            :              
- L:                                                                                                                                                                         
-</pre>
-</div>
+  L:                                           
+```
+
                                                               
 🎓 About Me
 
