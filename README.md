@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm Tran Ngoc Phuc, or DaSloth, or Theodore Westinghouse, whatever👋</h1>
-<p align="center">
-  Computer Science @ HCMUT (Ho Chi Minh City University of Technology - VNU-HCM)
-</p>
+<h1 align="center">Priviet, I'm Tran Ngoc Phuc, or DaSloth, or Slotheberg, etc... whatever
+  <br>
+  👋👋👋👋👋👋👋
+</h1>
+<h2 align="center">
+  Computer Science K25 @ HCMUT (Ho Chi Minh City University of Technology - VNU-HCM)
+</h2>
 
 <div align="center">
 <pre>
-;                                                                          
+ ;                                                                          
  ED.                                               :                        
  E#Wi                              .              t#,                       
  E###G.                           ;W         i   ;##W.           .    .     
