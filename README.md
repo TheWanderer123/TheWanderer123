@@ -1,4 +1,4 @@
-<h1 align="center">Priviet, I'm Tran Ngoc Phuc, or DaSloth, or Slotheberg, etc... whatever
+<h1 align="center">Здрасте, I'm Tran Ngoc Phuc, or DaSloth, or Slotheberg, etc... whatever
   <br>
   👋👋👋👋👋👋👋
 </h1>
