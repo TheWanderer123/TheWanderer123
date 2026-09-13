@@ -32,7 +32,7 @@
 
 
 🌱 I'm a CS sophomore, currently exploring Data Structures & Algorithms. </br>
-💻 Practicing problem-solving with LeetCode NeetCode. </br>
+💻 Practicing problem-solving with LeetCode & NeetCode. </br>
 📚 Always learning — open to suggestions and collaboration.
 
 
